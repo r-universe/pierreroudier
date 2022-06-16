@@ -1,0 +1,22 @@
+[
+  {
+    "package": "asdreader",
+    "oncran": true
+  },
+  {
+    "package": "clhs",
+    "oncran": true
+  },
+  {
+    "package": "dissever",
+    "oncran": true
+  },
+  {
+    "package": "spectacles",
+    "oncran": true
+  },
+  {
+    "package": "spemd",
+    "oncran": true
+  }
+]
