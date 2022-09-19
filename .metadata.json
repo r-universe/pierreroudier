@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "dissever",
+    "oncran": true
+  },
+  {
     "package": "spectacles",
     "oncran": true
   },
