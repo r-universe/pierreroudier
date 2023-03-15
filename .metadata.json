@@ -1,10 +1,10 @@
 [
   {
-    "package": "clhs",
+    "package": "asdreader",
     "oncran": true
   },
   {
-    "package": "asdreader",
+    "package": "clhs",
     "oncran": true
   },
   {
