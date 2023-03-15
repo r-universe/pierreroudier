@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "asdreader"]
-	path = asdreader
-	url = https://github.com/pierreroudier/asdreader
-	shallow = true
-	registered = true
 [submodule "clhs"]
 	path = clhs
 	url = https://github.com/pierreroudier/clhs
+	shallow = true
+	registered = true
+[submodule "asdreader"]
+	path = asdreader
+	url = https://github.com/pierreroudier/asdreader
 	shallow = true
 	registered = true
 [submodule "dissever"]
