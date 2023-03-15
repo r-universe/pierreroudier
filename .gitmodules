@@ -18,6 +18,11 @@
 	url = https://github.com/pierreroudier/dissever
 	shallow = true
 	registered = true
+[submodule "hillshader"]
+	path = hillshader
+	url = https://github.com/pierreroudier/hillshader
+	shallow = true
+	registered = true
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/pierreroudier/spectacles

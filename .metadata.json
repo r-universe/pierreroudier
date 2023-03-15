@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "hillshader",
+    "oncran": true
+  },
+  {
     "package": "spectacles",
     "oncran": true
   },
