@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "asdreader"]
 	path = asdreader
 	url = https://github.com/pierreroudier/asdreader
-	shallow = true
-	registered = true
 [submodule "clhs"]
 	path = clhs
 	url = https://github.com/pierreroudier/clhs
-	shallow = true
-	registered = true
 [submodule "dissever"]
 	path = dissever
 	url = https://github.com/pierreroudier/dissever
-	shallow = true
-	registered = true
 [submodule "hillshader"]
 	path = hillshader
 	url = https://github.com/pierreroudier/hillshader
-	shallow = true
-	registered = true
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/pierreroudier/spectacles
-	shallow = true
-	registered = true
 [submodule "spemd"]
 	path = spemd
 	url = https://github.com/pierreroudier/spemd
-	shallow = true
-	registered = true
