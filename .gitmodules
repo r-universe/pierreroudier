@@ -14,9 +14,6 @@
 [submodule "hillshader"]
 	path = hillshader
 	url = https://github.com/pierreroudier/hillshader
-[submodule "spectacles"]
-	path = spectacles
-	url = https://github.com/pierreroudier/spectacles
 [submodule "spemd"]
 	path = spemd
 	url = https://github.com/pierreroudier/spemd
