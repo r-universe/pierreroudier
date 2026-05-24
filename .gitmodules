@@ -17,6 +17,3 @@
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/pierreroudier/spectacles
-[submodule "spemd"]
-	path = spemd
-	url = https://github.com/pierreroudier/spemd
